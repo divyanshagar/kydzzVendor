@@ -1,0 +1,58 @@
+.display{
+    display: none;
+}
+.closeBtn{
+    cursor: pointer;
+}
+.dropBtn{
+background: transparent;
+float: right;
+cursor:pointer;
+border: none;
+color: #fff;
+}
+.goBtn{
+    padding: 5px;
+    left:5px;
+}
+.slider-head{
+
+    font-size: 22px;
+    font-weight: 600;
+}
+.slider-body{
+    font-size: 20px;
+    font-weight: 100;
+}
+.panel{
+
+    padding: 20px 10px;
+    border-bottom: 1px solid black;
+}
+.bg-panel{
+    background-color: beige;
+}
+.d-flex input{
+    display: block;
+}
+.centre{
+    text-align: -webkit-center;
+}
+.sendConfirm, .track{
+    position: relative;
+    top:10px;
+}
+.refund{
+    position: relative;
+    top: 16px;
+}
+.stockRow{
+
+    align-items: center;
+    justify-content: center;
+}
+.updateStock{
+
+    left: 12px;
+    position: relative;
+}
